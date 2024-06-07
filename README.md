@@ -10,5 +10,5 @@
 ## Usage
 
 ```typescript
-fetch('https://gh-cors-proxy.ult.workers.dev/?url=https://codeload.github.com/kat-tax/exo/zip/refs/heads/master')
+fetch('https://gh-cors-proxy.workers.dev/?url=https://codeload.github.com/kat-tax/exo/zip/refs/heads/master')
 ```
