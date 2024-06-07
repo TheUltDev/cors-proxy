@@ -1,5 +1,5 @@
 const blacklist = [] as RegExp[];
-const whitelist = [/.*/] as RegExp[];
+const whitelist = [/github.com/] as RegExp[];
 
 export default {
   async fetch(request: Request) {
