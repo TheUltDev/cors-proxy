@@ -1,13 +1,10 @@
 {
   "name": "cors-proxy",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20230511.0",
-    "@typescript-eslint/eslint-plugin": "^5.59.6",
-    "@typescript-eslint/parser": "^5.59.6",
-    "eslint": "^8.41.0",
-    "typescript": "^5.0.4",
-    "wrangler": "3.0.0"
+    "@cloudflare/workers-types": "^4.20240605.0",
+    "typescript": "^5.4.5",
+    "wrangler": "3.59.0"
   },
   "private": true,
   "scripts": {
